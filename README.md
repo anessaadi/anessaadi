@@ -30,9 +30,6 @@ Passionate about designing high-performing, scalable digital solutions with full
 
 ## 🚀 Key Projects
 
-* **[Pipexe — GIS Platform for Oil & Gas](https://github.com/anessaadi)** *(Next.js, React, Leaflet, Socket.io, Tailwind, MUI)*[cite: 1]
-  * Graduation project (Engineering & Master's) at ESI-SBA in collaboration with Sonatrach[cite: 1].
-  * Built a GIS platform mapping oil-field infrastructure (wells, manifolds, pipelines, junctions) with live status states and a custom Leaflet pipe-drawing tool[cite: 1].
 * **[MR Emballage — Client Website](https://github.com/anessaadi)** *(Next.js 15, Prisma, PostgreSQL)*[cite: 1]
   * End-to-end full-stack build for a packaging company client, handling everything from database schema design to delivery[cite: 1].
 * **[L'Élégance Digitale](https://github.com/anessaadi)** *(Next.js, Express, PostgreSQL, JWT)*[cite: 1]
@@ -41,6 +38,9 @@ Passionate about designing high-performing, scalable digital solutions with full
   * Full-stack application featuring a React frontend, Express/MongoDB backend, and Passport.js authentication[cite: 1].
 * **[Cakelia](https://github.com/anessaadi)** *(React 19, Firebase, Cloud Functions)*[cite: 1]
   * Modern personal web app utilizing a React 19 frontend paired with a serverless Firebase backend and Cloud Functions[cite: 1].
+* **[Pipexe — GIS Platform for Oil & Gas](https://github.com/anessaadi)** *(Next.js, React, Leaflet, Socket.io, Tailwind, MUI)*[cite: 1]
+  * Graduation project (Engineering & Master's) at ESI-SBA in collaboration with Sonatrach[cite: 1].
+  * Built a GIS platform mapping oil-field infrastructure (wells, manifolds, pipelines, junctions) with live status states and a custom Leaflet pipe-drawing tool[cite: 1].
 
 ---
 
