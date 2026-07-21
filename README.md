@@ -55,4 +55,4 @@ Passionate about designing high-performing, scalable digital solutions with full
 
 * **Website:** [anessaadi.com](https://anessaadi.com)
 * **Email:** mohammedanessaadi@gmail.com
-* **LinkedIn:** [linkedin.com/in/mohammed-anes-saâdi](https://linkedin.com/in/anessaadi)
+* **LinkedIn:** [linkedin.com/in/anessaadi](https://linkedin.com/in/anessaadi)
